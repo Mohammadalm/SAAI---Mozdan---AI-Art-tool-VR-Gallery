@@ -1,1 +1,1 @@
-# SAAI---Mozdan---AI-Art-tool-VR-Gallery
+# Generative AI art tool & AI VR gallery
