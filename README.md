@@ -11,14 +11,20 @@
     <th class="tg-yw4l"><b>Notebook</b></th>
   </tr>
   <tr>
-    <td class="tg-yw4l">StyleGan2-ada</td>
+    <td class="tg-yw4l">StyleGan AdaIN for Style Tranfer</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/tg-bomze/Style-Transfer-Collection/blob/master/(Video)_pytorch_AdaIN.ipynb#scrollTo=Pgv5MMFRXGkx">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '100px' >
 </a></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Stylegan AdaIN" For Style Transfer</td>
+    <td class="tg-yw4l">Stylegan2-ADA for image generation </td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1h-e-CF1zFNxH4imPOE_IJ9yaVpsGfRQv?authuser=6">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '100px' >
+</a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Clip-Vqan for text to image generation</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1JFfXB4Qmyyw2-jXQFNXmKzY1OdpEFVRt#scrollTo=Nq0wA-wc-P-s&uniqifier=2">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '100px' >
 </a></td>
   </tr>
