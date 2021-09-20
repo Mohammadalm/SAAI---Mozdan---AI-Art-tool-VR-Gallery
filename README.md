@@ -18,13 +18,13 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Stylegan2-ADA for image generation </td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1h-e-CF1zFNxH4imPOE_IJ9yaVpsGfRQv?authuser=6">
+    <td class="tg-yw4l"><a href="https://drive.google.com/file/d/1REz_4lTit2eekAxtoqzKvQ22E2sqZ1BK/view">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '100px' >
 </a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Clip-Vqan for text to image generation</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1JFfXB4Qmyyw2-jXQFNXmKzY1OdpEFVRt#scrollTo=Nq0wA-wc-P-s&uniqifier=2">
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1JFfXB4Qmyyw2-jXQFNXmKzY1OdpEFVRt?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '100px' >
 </a></td>
   </tr>
