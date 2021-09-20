@@ -30,9 +30,7 @@
   </tr>
 </table>
 
-#Clip-Vqan for text to image generation
 
-[![Open In Colab](https://colab.research.google.com/drive/1JFfXB4Qmyyw2-jXQFNXmKzY1OdpEFVRt#scrollTo=Nq0wA-wc-P-s&uniqifier=2)
 
 
 ## VR Gallery Unity Source Code to many files Github did not allow pushing to repo
@@ -40,7 +38,7 @@
 https://drive.google.com/file/d/1MUVQm5L9Yh1ZuqCGCPS3xi1EE8wWUyMY/view?usp=sharing
 
 ## Website Source Files ( MZDAN.COM )
-https://drive.google.com/file/d/1MUVQm5L9Yh1ZuqCGCPS3xi1EE8wWUyMY/view?usp=sharing
+https://drive.google.com/file/d/1XGcrst-O68DoCKJ-I_7dKGu0_n-ch_kU/view?usp=sharing
 
 
 
